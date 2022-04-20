@@ -1,3 +1,14 @@
 body {
   background-color: gray;
 }
+
+.cardContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.card {
+  margin: 10px;
+  text-align: center;
+}
